@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumTheOddNumbers", "SumTheO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Factorial", "Factorial\Factorial.csproj", "{66CDACE2-F669-4098-9F04-D3EFA25DA16D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConvertHoursToDays", "ConvertHoursToDays\ConvertHoursToDays.csproj", "{2BB9622E-9A03-40B0-AEBF-3A8E7E1997FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{66CDACE2-F669-4098-9F04-D3EFA25DA16D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66CDACE2-F669-4098-9F04-D3EFA25DA16D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66CDACE2-F669-4098-9F04-D3EFA25DA16D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BB9622E-9A03-40B0-AEBF-3A8E7E1997FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BB9622E-9A03-40B0-AEBF-3A8E7E1997FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BB9622E-9A03-40B0-AEBF-3A8E7E1997FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BB9622E-9A03-40B0-AEBF-3A8E7E1997FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
